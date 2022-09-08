@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">project</string>
+
+    <string-array name="category_name">
+        <item>Argentina Beef</item>
+        <item>Argentina Tenderloin</item>
+        <item>Australia Beef</item>
+        <item>Japan Beef</item>
+        <item>US Beef</item>
+        <item>Wagyu Australia</item>
+    </string-array>
+
+    <string-array name="user_type">
+        <item>Admin</item>
+        <item>Delivery Man</item>
+    </string-array>
+
+    <string-array name="delivery_status">
+        <item>Shiping</item>
+        <item>Successful</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
